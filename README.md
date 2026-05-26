@@ -34,7 +34,7 @@ Search any film, get 5 similar picks — or let the algorithm surprise you.
 ![CineMatch Movie Details](assets/2.PNG)
 
 **Recommendations & Trailer Links**
-![CineMatch Recommendations](assets/.PNG)
+![CineMatch Recommendations](assets/3.PNG)
 
 ---
 
